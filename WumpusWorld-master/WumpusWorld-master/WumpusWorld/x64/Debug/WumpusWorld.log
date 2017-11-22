@@ -1,0 +1,3 @@
+﻿  WumpusWorld.cpp
+c:\users\gaspe\desktop\wumpusworld-master\wumpusworld-master\wumpusworld\wumpusworld.cpp(10): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  WumpusWorld.vcxproj -> C:\Users\Gaspe\Desktop\WumpusWorld-master\WumpusWorld-master\x64\Debug\WumpusWorld.exe
